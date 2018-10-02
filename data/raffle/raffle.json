@@ -1,0 +1,9 @@
+{
+    "Config" : {
+        "Active" : false,
+        "Cost" : 10,
+        "Max Tickets" : 0,
+        "Tickets" : []
+    },
+    "Players" : {}
+}

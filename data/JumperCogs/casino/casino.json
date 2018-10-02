@@ -1,0 +1,254 @@
+{
+    "Servers" : {
+        "270079287154049035" : {
+            "Games" : {
+                "Allin" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 0,
+                    "Multiplier" : 2.2,
+                    "Open" : true
+                },
+                "Blackjack" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 50000000,
+                    "Min" : 10,
+                    "Multiplier" : 2.2,
+                    "Open" : true
+                },
+                "Coin" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 1000000,
+                    "Min" : 10,
+                    "Multiplier" : 1.5,
+                    "Open" : true
+                },
+                "Cups" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 50000000,
+                    "Min" : 10,
+                    "Multiplier" : 2.2,
+                    "Open" : true
+                },
+                "Dice" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 5000000,
+                    "Min" : 10,
+                    "Multiplier" : 2.2,
+                    "Open" : true
+                },
+                "Hi-Lo" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 20000000,
+                    "Min" : 10,
+                    "Multiplier" : 1.5,
+                    "Open" : true
+                },
+                "War" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 20000000,
+                    "Min" : 10,
+                    "Multiplier" : 1.5,
+                    "Open" : true
+                }
+            },
+            "Memberships" : {},
+            "Players" : {
+                "204466139105984512" : {
+                    "Chips" : 728,
+                    "Cooldowns" : {
+                        "Allin" : "2018-09-27T06:47:08.800468",
+                        "Blackjack" : 0,
+                        "Coin" : 0,
+                        "Cups" : "2018-09-25T08:31:14.682668",
+                        "Dice" : "2018-09-26T05:24:06.107854",
+                        "Hi-Lo" : "2018-09-28T05:06:29.154100",
+                        "Payday" : "2018-10-02T03:51:54.666957",
+                        "Transfer" : "2018-09-25T08:33:24.444039",
+                        "War" : "2018-09-25T08:37:22.152180"
+                    },
+                    "Membership" : null,
+                    "Name" : "bostondoomgx2002",
+                    "Pending" : 0,
+                    "Played" : {
+                        "Allin" : 3,
+                        "Blackjack" : 0,
+                        "Coin" : 0,
+                        "Cups" : 4,
+                        "Dice" : 8,
+                        "Hi-Lo" : 15,
+                        "War" : 6
+                    },
+                    "Won" : {
+                        "Allin" : 1,
+                        "Blackjack" : 0,
+                        "Coin" : 0,
+                        "Cups" : 0,
+                        "Dice" : 1,
+                        "Hi-Lo" : 5,
+                        "War" : 2
+                    }
+                },
+                "254039997718462464" : {
+                    "Chips" : 1245,
+                    "Cooldowns" : {
+                        "Allin" : "2018-09-28T04:53:01.945069",
+                        "Blackjack" : "2018-09-25T10:36:18.019466",
+                        "Coin" : "2018-09-25T23:40:46.267036",
+                        "Cups" : "2018-09-25T10:58:57.144107",
+                        "Dice" : "2018-09-25T06:32:43.270461",
+                        "Hi-Lo" : "2018-09-25T07:31:30.957483",
+                        "Payday" : "2018-09-28T06:32:20.895294",
+                        "Transfer" : 0,
+                        "War" : "2018-09-25T12:20:43.925413"
+                    },
+                    "Membership" : null,
+                    "Name" : "\u6b64\u70ba\u904a\u5ba2\u5e33\u865f",
+                    "Pending" : 0,
+                    "Played" : {
+                        "Allin" : 43,
+                        "Blackjack" : 3,
+                        "Coin" : 4,
+                        "Cups" : 3,
+                        "Dice" : 1,
+                        "Hi-Lo" : 3,
+                        "War" : 9
+                    },
+                    "Won" : {
+                        "Allin" : 9,
+                        "Blackjack" : 1,
+                        "Coin" : 4,
+                        "Cups" : 1,
+                        "Dice" : 0,
+                        "Hi-Lo" : 1,
+                        "War" : 3
+                    }
+                },
+                "256584896430997514" : {
+                    "Chips" : 0,
+                    "Cooldowns" : {
+                        "Allin" : "2018-09-27T08:10:13.334027",
+                        "Blackjack" : 0,
+                        "Coin" : 0,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : 0,
+                        "Payday" : "2018-09-27T06:03:02.409219",
+                        "Transfer" : 0,
+                        "War" : 0
+                    },
+                    "Membership" : null,
+                    "Name" : "SLMclockwalker",
+                    "Pending" : 0,
+                    "Played" : {
+                        "Allin" : 5,
+                        "Blackjack" : 0,
+                        "Coin" : 0,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : 0,
+                        "War" : 0
+                    },
+                    "Won" : {
+                        "Allin" : 1,
+                        "Blackjack" : 0,
+                        "Coin" : 0,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : 0,
+                        "War" : 0
+                    }
+                },
+                "346653395186089986" : {
+                    "Chips" : 0,
+                    "Cooldowns" : {
+                        "Allin" : "2018-09-28T05:01:09.260943",
+                        "Blackjack" : "2018-09-25T06:46:27.091103",
+                        "Coin" : 0,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : 0,
+                        "Payday" : "2018-09-28T05:00:54.940528",
+                        "Transfer" : 0,
+                        "War" : 0
+                    },
+                    "Membership" : null,
+                    "Name" : "\u3010\u3000\u3011",
+                    "Pending" : 0,
+                    "Played" : {
+                        "Allin" : 12,
+                        "Blackjack" : 2,
+                        "Coin" : 0,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : 0,
+                        "War" : 0
+                    },
+                    "Won" : {
+                        "Allin" : 0,
+                        "Blackjack" : 1,
+                        "Coin" : 0,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : 0,
+                        "War" : 0
+                    }
+                },
+                "478883297494302720" : {
+                    "Chips" : 0,
+                    "Cooldowns" : {
+                        "Allin" : "2018-09-28T12:33:00.497869",
+                        "Blackjack" : "2018-09-28T12:31:30.035736",
+                        "Coin" : 0,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : "2018-09-25T11:53:31.998320",
+                        "Payday" : "2018-09-28T12:14:12.854857",
+                        "Transfer" : 0,
+                        "War" : 0
+                    },
+                    "Membership" : null,
+                    "Name" : "imnotloli",
+                    "Pending" : 0,
+                    "Played" : {
+                        "Allin" : 3,
+                        "Blackjack" : 9,
+                        "Coin" : 0,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : 1,
+                        "War" : 0
+                    },
+                    "Won" : {
+                        "Allin" : 0,
+                        "Blackjack" : 3,
+                        "Coin" : 0,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : 0,
+                        "War" : 0
+                    }
+                }
+            },
+            "System Config" : {
+                "Casino Name" : "\u8c93\u8c93\u8ced\u5834",
+                "Casino Open" : true,
+                "Chip Name" : "\ud83e\udd55",
+                "Chip Rate" : 100.0,
+                "Credit Rate" : 1.0,
+                "Default Payday" : 250,
+                "Payday Timer" : 26000,
+                "Threshold" : 10000,
+                "Threshold Switch" : false,
+                "Transfer Cooldown" : 30,
+                "Transfer Limit" : 1000,
+                "Version" : 1.722
+            }
+        }
+    }
+}

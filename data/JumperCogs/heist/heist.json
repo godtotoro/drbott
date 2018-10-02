@@ -1,0 +1,73 @@
+{
+    "Servers" : {
+        "270079287154049035" : {
+            "Config" : {
+                "Alert Time" : 0,
+                "Bail Base" : 500,
+                "Crew Output" : "None",
+                "Death Timer" : 86400,
+                "Hardcore" : false,
+                "Heist Cost" : 100,
+                "Heist Planned" : true,
+                "Heist Start" : true,
+                "Police Alert" : 60,
+                "Sentence Base" : 600,
+                "Theme" : "Heist",
+                "Version" : 2.42,
+                "Wait Time" : 20
+            },
+            "Crew" : {
+                "254039997718462464" : {},
+                "314287673046990851" : {}
+            },
+            "Players" : {
+                "254039997718462464" : {
+                    "Bail Cost" : 0,
+                    "Criminal Level" : 0,
+                    "Death Timer" : 0,
+                    "Deaths" : 0,
+                    "Jail Counter" : 0,
+                    "Name" : "\u6b64\u70ba\u904a\u5ba2\u5e33\u865f",
+                    "OOB" : false,
+                    "Sentence" : 0,
+                    "Spree" : 0,
+                    "Status" : "Free",
+                    "Time Served" : 0,
+                    "Total Jail" : 0
+                },
+                "314287673046990851" : {
+                    "Bail Cost" : 0,
+                    "Criminal Level" : 0,
+                    "Death Timer" : 0,
+                    "Deaths" : 0,
+                    "Jail Counter" : 0,
+                    "Name" : "\u90ed\u5594",
+                    "OOB" : false,
+                    "Sentence" : 0,
+                    "Spree" : 0,
+                    "Status" : "Free",
+                    "Time Served" : 0,
+                    "Total Jail" : 0
+                }
+            },
+            "Targets" : {
+                "\u8c93\u8c93" : {
+                    "Crew" : 10,
+                    "Success" : 25,
+                    "Vault" : 105,
+                    "Vault Max" : 1000
+                }
+            },
+            "Theme" : {
+                "Bail" : "bail",
+                "Crew" : "crew",
+                "Heist" : "heist",
+                "Jail" : "jail",
+                "OOB" : "out on bail",
+                "Police" : "Police",
+                "Sentence" : "sentence",
+                "Vault" : "vault"
+            }
+        }
+    }
+}

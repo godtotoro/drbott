@@ -1,0 +1,58 @@
+{
+    "Servers" : {
+        "270079287154049035" : {
+            "Config" : {
+                "Inventory Output Method" : "Chat",
+                "Member Discount" : null,
+                "Pending Type" : "Automatic",
+                "Shop Name" : "\u8c93\u8c93\u5546\u5e97",
+                "Shop Notify" : true,
+                "Shop Open" : true,
+                "Shop Role" : null,
+                "Sort Method" : "Alphabet",
+                "Store Output Method" : "Chat",
+                "Trade Cooldown" : 30
+            },
+            "Pending" : {
+                "254039997718462464" : {
+                    "4ae8e5c2-b0fa-4efe-a410-5dcb3df78d1b" : {
+                        "Confirmation Number" : "4ae8e5c2-b0fa-4efe-a410-5dcb3df78d1b",
+                        "Item" : "\u6e2c\u8a66",
+                        "Name" : "\u6b64\u70ba\u904a\u5ba2\u5e33\u865f",
+                        "Status" : "Pending",
+                        "Time Stamp" : "2018-09-27 11:54:52"
+                    },
+                    "9438d2d4-5d61-4ffc-805c-cb74f7a437d4" : {
+                        "Confirmation Number" : "9438d2d4-5d61-4ffc-805c-cb74f7a437d4",
+                        "Item" : "\u6e2c\u8a66",
+                        "Name" : "\u6b64\u70ba\u904a\u5ba2\u5e33\u865f",
+                        "Status" : "Pending",
+                        "Time Stamp" : "2018-09-26 23:12:36"
+                    }
+                }
+            },
+            "Shop List" : {
+                "\u6709\u9322\u4eba" : {
+                    "Buy Msg" : [
+                        "\u4f60\u73fe\u5728\u662f\u6709\u9322\u4eba\u8eab\u4efd\u7d44\u4e86"
+                    ],
+                    "Discount" : 0,
+                    "Item Cost" : 100000,
+                    "Item Name" : "\u6709\u9322\u4eba",
+                    "Members Only" : "No",
+                    "Quantity" : "\u221e",
+                    "Role" : "336313398797139969"
+                }
+            },
+            "Users" : {
+                "254039997718462464" : {
+                    "Block Trades" : false,
+                    "Inventory" : {},
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                }
+            }
+        }
+    },
+    "Version" : "2.2.10"
+}
